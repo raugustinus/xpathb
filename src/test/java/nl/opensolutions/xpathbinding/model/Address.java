@@ -1,4 +1,6 @@
-package nl.opensolutions.xpathbinding;
+package nl.opensolutions.xpathbinding.model;
+
+import nl.opensolutions.xpathbinding.XPathBinding;
 
 import javax.xml.bind.annotation.XmlType;
 
