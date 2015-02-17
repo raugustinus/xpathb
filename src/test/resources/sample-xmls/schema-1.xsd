@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="person" type="personType"/>
+  <xs:complexType name="addressType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="street1"/>
+      <xs:element type="xs:string" name="street2"/>
+      <xs:element type="xs:string" name="street3"/>
+      <xs:element type="xs:string" name="city"/>
+      <xs:element type="xs:string" name="country"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="personType">
+    <xs:sequence>
+      <xs:element type="nameType" name="name"/>
+      <xs:element type="xs:string" name="dateOfBirth"/>
+      <xs:element type="addressType" name="address"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="nameType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="firstname"/>
+      <xs:element type="xs:string" name="lastname"/>
+      <xs:element type="xs:string" name="initials"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

@@ -1,0 +1,15 @@
+<person>
+    <name>
+        <firstname>Rob</firstname>
+        <lastname>Augustinus</lastname>
+        <initials>R.A.</initials>
+    </name>
+    <dateOfBirth>26031975</dateOfBirth>
+    <address>
+        <street1>Schoolstraat 1c</street1>
+        <street2></street2>
+        <street3></street3>
+        <city>Voorschoten</city>
+        <country>NL</country>
+    </address>
+</person>
