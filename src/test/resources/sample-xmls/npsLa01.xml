@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BG:npsLa01 xmlns:BG="http://www.egem.nl/StUF/sector/bg/0310" xmlns:StUF="http://www.egem.nl/StUF/StUF0301" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <BG:stuurgegevens xmlns:BG="http://www.egem.nl/StUF/sector/bg/0310">
+        <StUF:berichtcode xmlns:StUF="http://www.egem.nl/StUF/StUF0301">La01</StUF:berichtcode>
+        <stuf301:zender xmlns:stuf301="http://www.egem.nl/StUF/StUF0301" xmlns:bg301="http://www.egem.nl/StUF/sector/bg/0310">
+            <stuf301:applicatie xmlns:stuf301="http://www.egem.nl/StUF/StUF0301">ZENDER_APP</stuf301:applicatie>
+            <stuf301:gebruiker xmlns:stuf301="http://www.egem.nl/StUF/StUF0301">ZENDER_GEBRUIKER</stuf301:gebruiker>
+        </stuf301:zender>
+        <StUF:ontvanger xmlns:StUF="http://www.egem.nl/StUF/StUF0301">
+            <StUF:applicatie xmlns:StUF="http://www.egem.nl/StUF/StUF0301">ONTVANGER</StUF:applicatie>
+        </StUF:ontvanger>
+        <StUF:referentienummer xmlns:StUF="http://www.egem.nl/StUF/StUF0301">9f1638209200</StUF:referentienummer>
+        <StUF:tijdstipBericht xmlns:StUF="http://www.egem.nl/StUF/StUF0301">20150129151956813</StUF:tijdstipBericht>
+        <StUF:crossRefnummer xmlns:StUF="http://www.egem.nl/StUF/StUF0301">9f1638209200</StUF:crossRefnummer>
+        <StUF:entiteittype xmlns:StUF="http://www.egem.nl/StUF/StUF0301">NPS</StUF:entiteittype>
+    </BG:stuurgegevens>
+    <bg310:parameters xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">
+        <stuf301:indicatorVervolgvraag xmlns:stuf301="http://www.egem.nl/StUF/StUF0301">false</stuf301:indicatorVervolgvraag>
+        <stuf301:indicatorAfnemerIndicatie xmlns:stuf301="http://www.egem.nl/StUF/StUF0301">false</stuf301:indicatorAfnemerIndicatie>
+    </bg310:parameters>
+
+    <BG:antwoord xmlns:BG="http://www.egem.nl/StUF/sector/bg/0310">
+        <bg310:object xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310" xmlns:stuf301="http://www.egem.nl/StUF/StUF0301" stuf301:entiteittype="NPS" stuf301:sleutelVerzendend="-966980906">
+            <bg310:inp.bsn xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">111111110</bg310:inp.bsn>
+            <bg310:authentiek stuf301:metagegeven="true" xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310" xmlns:stuf301="http://www.egem.nl/StUF/StUF0301">J</bg310:authentiek>
+            <bg310:sub.typering xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">Ingezetene</bg310:sub.typering>
+            <bg310:inp.a-nummer xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">1231231230</bg310:inp.a-nummer>
+            <bg310:geslachtsnaam>Testpersoonagrsd16</bg310:geslachtsnaam>
+            <bg310:voorvoegselGeslachtsnaam xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">de</bg310:voorvoegselGeslachtsnaam>
+            <bg310:voorletters xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">I</bg310:voorletters>
+            <bg310:voornamen xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">Irma</bg310:voornamen>
+            <bg310:aanduidingNaamgebruik xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">E</bg310:aanduidingNaamgebruik>
+            <bg310:geslachtsnaamPartner stuf301:noValue="geenWaarde" xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310" xmlns:stuf301="http://www.egem.nl/StUF/StUF0301" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <bg310:voorvoegselGeslachtsnaamPartner stuf301:noValue="geenWaarde" xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310" xmlns:stuf301="http://www.egem.nl/StUF/StUF0301" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <bg310:adellijkeTitelPredikaat stuf301:noValue="geenWaarde" xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310" xmlns:stuf301="http://www.egem.nl/StUF/StUF0301" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <bg310:geslachtsaanduiding xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">V</bg310:geslachtsaanduiding>
+            <bg310:geboortedatum xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">19800324</bg310:geboortedatum>
+            <bg310:inp.geboorteplaats xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">0156</bg310:inp.geboorteplaats>
+            <bg310:inp.geboorteLand xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">6030</bg310:inp.geboorteLand>
+            <bg310:overlijdensdatum stuf301:noValue="geenWaarde" xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310" xmlns:stuf301="http://www.egem.nl/StUF/StUF0301" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <bg310:inp.overlijdenplaats stuf301:noValue="geenWaarde" xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310" xmlns:stuf301="http://www.egem.nl/StUF/StUF0301" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <bg310:inp.overlijdenLand stuf301:noValue="geenWaarde" xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310" xmlns:stuf301="http://www.egem.nl/StUF/StUF0301" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <bg310:verblijfsadres xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">
+                <bg310:authentiek stuf301:metagegeven="true" xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310" xmlns:stuf301="http://www.egem.nl/StUF/StUF0301">N</bg310:authentiek>
+                <bg310:wpl.woonplaatsNaam stuf301:noValue="geenWaarde" xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310" xmlns:stuf301="http://www.egem.nl/StUF/StUF0301" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <bg310:gor.openbareRuimteNaam xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">Adresagrsd16</bg310:gor.openbareRuimteNaam>
+                <bg310:gor.straatnaam xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">Adresagrsd16</bg310:gor.straatnaam>
+                <bg310:aoa.postcode xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">3016AA</bg310:aoa.postcode>
+                <bg310:aoa.huisnummer xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">1</bg310:aoa.huisnummer>
+                <bg310:aoa.huisletter xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">A</bg310:aoa.huisletter>
+                <bg310:aoa.huisnummertoevoeging stuf301:noValue="geenWaarde" xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310" xmlns:stuf301="http://www.egem.nl/StUF/StUF0301" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+                <bg310:begindatumVerblijf xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">19610608</bg310:begindatumVerblijf>
+            </bg310:verblijfsadres>
+            <bg310:inp.burgerlijkeStaat xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">1</bg310:inp.burgerlijkeStaat>
+            <bg310:inp.gemeenteVanInschrijving xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">599</bg310:inp.gemeenteVanInschrijving>
+            <bg310:inp.datumInschrijving xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">19610607</bg310:inp.datumInschrijving>
+            <bg310:vbt.aanduidingVerblijfstitel stuf301:noValue="geenWaarde" xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310" xmlns:stuf301="http://www.egem.nl/StUF/StUF0301" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <bg310:ing.datumVerkrijgingVerblijfstitel stuf301:noValue="geenWaarde" xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310" xmlns:stuf301="http://www.egem.nl/StUF/StUF0301" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <bg310:ing.datumVerliesVerblijfstitel stuf301:noValue="geenWaarde" xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310" xmlns:stuf301="http://www.egem.nl/StUF/StUF0301" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <bg310:inp.aanduidingBijzonderNederlanderschap stuf301:noValue="geenWaarde" xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310" xmlns:stuf301="http://www.egem.nl/StUF/StUF0301" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <bg310:inp.datumOpschortingBijhouding stuf301:noValue="geenWaarde" xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310" xmlns:stuf301="http://www.egem.nl/StUF/StUF0301" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <bg310:inp.redenOpschortingBijhouding stuf301:noValue="geenWaarde" xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310" xmlns:stuf301="http://www.egem.nl/StUF/StUF0301" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+            <bg310:inp.indicatieGeheim xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">0</bg310:inp.indicatieGeheim>
+            <stuf301:tijdstipRegistratie xmlns:stuf301="http://www.egem.nl/StUF/StUF0301">20150122014352615</stuf301:tijdstipRegistratie>
+            <bg310:inp.heeftAlsEchtgenootPartner stuf301:entiteittype="NPSNPSHUW" xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310" xmlns:stuf301="http://www.egem.nl/StUF/StUF0301">
+                <bg310:gerelateerde stuf301:entiteittype="NPS" stuf301:sleutelVerzendend="-966989442" xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310" xmlns:stuf301="http://www.egem.nl/StUF/StUF0301">
+                    <bg310:inp.bsn xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">966989442</bg310:inp.bsn>
+                    <bg310:geslachtsnaam xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">Testpartneragrsd26</bg310:geslachtsnaam>
+                    <bg310:voorvoegselGeslachtsnaam xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">van</bg310:voorvoegselGeslachtsnaam>
+                </bg310:gerelateerde>
+                <bg310:datumSluiting xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">20030312</bg310:datumSluiting>
+                <bg310:datumOntbinding xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">20100509</bg310:datumOntbinding>
+                <stuf301:tijdstipRegistratie xmlns:stuf301="http://www.egem.nl/StUF/StUF0301">20150122014352629</stuf301:tijdstipRegistratie>
+            </bg310:inp.heeftAlsEchtgenootPartner>
+            <bg310:inp.heeftAlsEchtgenootPartner stuf301:entiteittype="NPSNPSHUW" xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310" xmlns:stuf301="http://www.egem.nl/StUF/StUF0301">
+                <bg310:gerelateerde stuf301:entiteittype="NPS" stuf301:sleutelVerzendend="-966989442" xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310" xmlns:stuf301="http://www.egem.nl/StUF/StUF0301">
+                    <bg310:inp.bsn xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">966989442</bg310:inp.bsn>
+                    <bg310:geslachtsnaam xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">Testpartneragrsd26</bg310:geslachtsnaam>
+                    <bg310:voorvoegselGeslachtsnaam xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">van</bg310:voorvoegselGeslachtsnaam>
+                </bg310:gerelateerde>
+                <bg310:datumSluiting xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">20030312</bg310:datumSluiting>
+                <bg310:datumOntbinding xmlns:bg310="http://www.egem.nl/StUF/sector/bg/0310">20100509</bg310:datumOntbinding>
+                <stuf301:tijdstipRegistratie xmlns:stuf301="http://www.egem.nl/StUF/StUF0301">20150122014352629</stuf301:tijdstipRegistratie>
+            </bg310:inp.heeftAlsEchtgenootPartner>
+        </bg310:object>
+    </BG:antwoord>
+</BG:npsLa01>
